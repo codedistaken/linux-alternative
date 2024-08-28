@@ -1,0 +1,1 @@
+i recomend using tools such as ai or optimization tools to help compact code to further boost performance, try experimenting.
